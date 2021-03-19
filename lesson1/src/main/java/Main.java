@@ -45,7 +45,11 @@ public class Main {
         System.out.println((((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0)) ? "Leap" : "Not leap");
     }
 
+
+    //task_1
     public static void main(String[] args) {
+
+    //example
 
     }
 }
