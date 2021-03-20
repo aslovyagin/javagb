@@ -49,7 +49,5 @@ public class Main {
     //task_1
     public static void main(String[] args) {
 
-    //example
-
     }
 }
